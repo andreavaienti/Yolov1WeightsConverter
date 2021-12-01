@@ -1,0 +1,5 @@
+classes = 3
+train = /content/data/train.txt
+valid  = /content/data/train.txt
+names = /content/data/face_mask.names
+backup = /content/backup/
